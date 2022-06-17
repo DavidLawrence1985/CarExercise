@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\bin\Debug\netcoreapp2.2\CarDescriptionExercise.deps.json
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\bin\Debug\netcoreapp2.2\CarDescriptionExercise.runtimeconfig.json
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\bin\Debug\netcoreapp2.2\CarDescriptionExercise.runtimeconfig.dev.json
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\bin\Debug\netcoreapp2.2\CarDescriptionExercise.dll
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\bin\Debug\netcoreapp2.2\CarDescriptionExercise.pdb
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.csprojAssemblyReference.cache
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.RazorAssemblyInfo.cache
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.RazorAssemblyInfo.cs
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.AssemblyInfo.cs
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.RazorTargetAssemblyInfo.cache
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.dll
+C:\Users\David\source\repos\CarDescriptionExercise\CarDescriptionExercise\obj\Debug\netcoreapp2.2\CarDescriptionExercise.pdb
